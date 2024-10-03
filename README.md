@@ -1,7 +1,7 @@
 # Power-BI-Dashboard-Project1
 
 ## Overview
-This project aimed to visualise large data sets relating to Global Land Temperature. It involved cleaning, transforming, querying and analysing data, before displaying and visualising it in an interactive dashboard. More focused on experimenting and displaying Power BI functionality, rather than extracting real-world insights from the data.
+This project aimed to visualise large data sets relating to Global Land Temperature. It involved cleaning, transforming, querying and analysing data, before displaying and visualising it in an interactive dashboard. It was more focused on experimenting and displaying Power BI functionality, rather than extracting real-world insights from the data.
 
 ## Tools Used
 - Kaggle (for original data set)
